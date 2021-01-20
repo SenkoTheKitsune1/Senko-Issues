@@ -1,3 +1,2 @@
-# Info
+# Commands, Events, And functions
 
-<h1>Placeholder</h1>
