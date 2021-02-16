@@ -9,7 +9,7 @@
     <a href="https://patreon.com/Senbyte">
       <img alt="Patreon" src="https://img.shields.io/badge/Patreon-505050?style=flat&logo=patreon" />
     </a>
-    <a href="https://discord.com/">
+    <a href="https://discord.com/invite/FMghXMP4mW">
       <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-303030?style=flat&logo=discord&logoColor=white" />
     </a>
     <a>
