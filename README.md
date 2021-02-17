@@ -13,7 +13,7 @@
       <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.1.2_[BETA]-70FF00?style=flat" />
     </a>
     <div>
-    <a href="https://github.com/Senbyte1/Senko-Issues/issues/new?assignees=&labels=Bug%2FError&template=bug-report.md&title=">Report a bug</a>
+
 </div>
 
 <div align='left'>
