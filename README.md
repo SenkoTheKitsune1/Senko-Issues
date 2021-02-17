@@ -28,4 +28,4 @@
 
 <h1>Join the community!</h1>
 
-[Join the official discord](https://discord.com/invite/FMghXMP4mW)
+[Join the official discord](https://discord.com/invite/FMghXMP4mW) (You can whitelist for development here)
