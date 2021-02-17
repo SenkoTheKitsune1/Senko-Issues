@@ -19,7 +19,8 @@
 <div align='left'>
 
 <h1>Overview</h1>
-Senko is a social discord bot created from scratch
+Senko is a social discord bot created from scratch, made by Senko-san herself!
+(im still adding onto this hold on)
 
 <h1>Issues & other stuff</h1>
 
