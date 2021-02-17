@@ -10,7 +10,7 @@
       <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-303030?style=flat&logo=discord&logoColor=white" />
     </a>
     <a>
-      <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.0-ff8700?style=flat" />
+      <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.1.2-ff8700?style=flat" />
     </a>
     <div>
     <a href="https://github.com/Senbyte1/Senko-Issues/issues/new?assignees=&labels=Bug%2FError&template=bug-report.md&title=">Report a bug</a>
