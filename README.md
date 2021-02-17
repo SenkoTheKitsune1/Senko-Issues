@@ -3,11 +3,8 @@
     <a href="https://github.com/Senbyte1/Senko-Issues/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Senbyte1/Senko-Issues?color=0088ff" />
     </a>
-    <a href="https://twitter.com/Senbyte_">
+    <a href="https://twitter.com/SenkoTheKtsune">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-2f4962?style=flat&logo=twitter" />
-    </a>
-    <a href="https://patreon.com/Senbyte">
-      <img alt="Patreon" src="https://img.shields.io/badge/Patreon-505050?style=flat&logo=patreon" />
     </a>
     <a href="https://discord.com/invite/FMghXMP4mW">
       <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-303030?style=flat&logo=discord&logoColor=white" />
