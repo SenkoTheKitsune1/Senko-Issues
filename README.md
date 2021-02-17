@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1>Hello World!</h1>
+    <h1>Senko, the discord bot</h1>
     <a href="https://github.com/Senbyte1/Senko-Issues/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Senbyte1/Senko-Issues?color=0088ff" />
     </a>
