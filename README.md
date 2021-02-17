@@ -18,10 +18,6 @@
 
 <div align='left'>
 
-<h1>Overview</h1>
-Senko is a social discord bot created from scratch, made by Senko-san herself!
-(im still adding onto this hold on)
-
 <h1>Issues & other stuff</h1>
 
 [Submit an issue](https://github.com/SenkoTheKitsune1/Senko-Issues/issues/new?assignees=&labels=Bug/Error&template=bug-report.md&title=)
