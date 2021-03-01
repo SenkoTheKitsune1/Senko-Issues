@@ -28,4 +28,5 @@
 
 <h1>Join the community!</h1>
 
-[Join the official discord](https://discord.com/invite/FMghXMP4mW) (You can whitelist for development here)
+[Join the official discord](https://discord.com/invite/FMghXMP4mW)
+[Invite Senko](https://discord.com/oauth2/authorize?client_id=777676015887319050&permissions=25600&scope=bot)
