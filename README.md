@@ -12,6 +12,9 @@
     <a>
       <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.2.0-70FF00?style=flat" />
     </a>
+    <a href="https://reddit.com/r/SenkosWorld">
+      <img alt="Discord Server" src="https://img.shields.io/badge/Reddit-303030?style=flat&logo=reddit" />
+    </a>
     <div>
 
 </div>
