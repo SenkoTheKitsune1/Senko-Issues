@@ -10,7 +10,7 @@
       <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-303030?style=flat&logo=discord&logoColor=white" />
     </a>
     <a>
-      <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.1.2_[BETA]-70FF00?style=flat" />
+      <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.2.0-70FF00?style=flat" />
     </a>
     <div>
 
