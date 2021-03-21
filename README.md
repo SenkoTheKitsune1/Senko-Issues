@@ -34,3 +34,11 @@
 [Join the official discord](https://discord.com/invite/FMghXMP4mW)
 
 [Invite Senko](https://discord.com/oauth2/authorize?client_id=777676015887319050&permissions=25600&scope=bot)
+
+<h2>TODO:</h2>
+[] Finish the shop
+[] Add ?daily and ?weekly
+[] Add more quality-of-life commands
+[] ?smile command
+[] Change reward amount's
+[] Add more status'
