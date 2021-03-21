@@ -36,14 +36,14 @@
 [Invite Senko](https://discord.com/oauth2/authorize?client_id=777676015887319050&permissions=25600&scope=bot)
 
 <h2>TODO:</h2>
-[] Finish the shop
+- [] Finish the shop
 
-[] Add ?daily and ?weekly
+- [] Add ?daily and ?weekly
 
-[] Add more quality-of-life commands
+- [] Add more quality-of-life commands
 
-[] ?smile command
+- [] ?smile command
 
-[] Change reward amount's
+- [] Change reward amount's
 
-[] Add more status'
+- [] Add more status'
