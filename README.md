@@ -39,7 +39,7 @@
 
 - [ ] Finish the shop
 
-- [ ] Add ?daily and ?weekly
+- [x] Add ?daily and ?weekly (Finished on Development branch)
 
 - [ ] Add more quality-of-life commands
 
