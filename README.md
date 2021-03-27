@@ -45,6 +45,6 @@
 
 - [ ] ?smile command
 
-- [ ] Change reward amount's
+- [x] Change reward amount's
 
 - [ ] Add more status'
