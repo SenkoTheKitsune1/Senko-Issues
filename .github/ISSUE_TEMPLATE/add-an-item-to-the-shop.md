@@ -14,9 +14,9 @@ A clear description of what you want added. And why.
 **Fill this in**
 ```json
 {
-    "name": "Little Yoko Doll", -- Name of the Item
-    "amount": 1, -- How many a user should get at a time
-    "description": "A little Yoko doll of Nakano.", -- Description
-    "price": 750 -- Price (In yen)
+    "Item_Name": "Little Yoko Doll",
+    "Amount_Per_Bought_Item": 1,
+    "Item_Description": "A little Yoko doll of Nakano.",
+    "Price_In_yen": 750
 }
 ```
