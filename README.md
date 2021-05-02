@@ -3,10 +3,10 @@
     <a href="https://github.com/Senbyte1/Senko-Issues/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Senbyte1/Senko-Issues?color=0088ff" />
     </a>
-    <a href="https://twitter.com/SenkoTheKtsune">
+    <a href="https://twitter.com/TrueSenko">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-2f4962?style=flat&logo=twitter" />
     </a>
-    <a href="https://discord.com/invite/FMghXMP4mW">
+    <a href="https://discord.com/invite/senko">
       <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-303030?style=flat&logo=discord&logoColor=white" />
     </a>
     <a>
@@ -31,7 +31,7 @@
 
 <h1>Join the community!</h1>
 
-[Join the official discord](https://discord.com/invite/FMghXMP4mW)
+[Join the official discord](https://discord.com/invite/senko)
 
 [Invite Senko to your server](https://discord.com/oauth2/authorize?client_id=777676015887319050&permissions=25600&scope=bot)
 
