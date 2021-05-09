@@ -1,23 +1,24 @@
 <div align='center'>
     <h1>Senko, the discord bot</h1>
     <a href="https://github.com/Senbyte1/Senko-Issues/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Senbyte1/Senko-Issues?color=0088ff" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/Senbyte1/Senko-Issues?color=0088ff">
     </a>
     <a href="https://twitter.com/TrueSenko">
-      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-2f4962?style=flat&logo=twitter" />
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-2f4962?style=flat&logo=twitter">
     </a>
-    <a href="https://discord.com/invite/senko">
-      <img alt="Discord Server" src="https://img.shields.io/badge/Discord_Server-303030?style=flat&logo=discord&logoColor=white" />
+    <a href="https://discord.gg/senko">
+        <img src="https://discordapp.com/api/guilds/777251087592718336/widget.png?style=shield" alt="Discord Server">
     </a>
     <a>
-      <img alt="Bot Version" src="https://img.shields.io/badge/Bot%20Version-0.5.6-70FF00?style=flat" />
+        <img src="https://img.shields.io/github/package-json/v/Senko-The-Kitsune/Senko-Issues?label=Version">
     </a>
     <a href="https://reddit.com/r/SenkosWorld">
-      <img alt="Discord Server" src="https://img.shields.io/badge/Reddit-303030?style=flat&logo=reddit" />
+        <img href="https://reddit.com/r/SenkosWorld" alt="Discord Server" src="https://img.shields.io/badge/Reddit-303030?style=flat&logo=reddit">
     </a>
     <div>
-
 </div>
+
+
 
 <div align='left'>
 
