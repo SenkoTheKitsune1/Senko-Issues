@@ -43,3 +43,22 @@
 </a>
 
 </div>
+
+<div align="left">
+
+# Senko offers features for all your pampering needs!
+
+### Some of the features include
+
+> ### Custom made commands for your fluffing purposes
+
+> ### Weekly Updates (Every Saturday PST)
+
+> ### Economy system with weekly shop refreshes
+
+> ### 24/7 uptime so you will never miss out on your pampering
+
+> ### Soon to be 49 commands
+
+What are you waiting for? Add Senko to your server and start fluffing!
+</div>
