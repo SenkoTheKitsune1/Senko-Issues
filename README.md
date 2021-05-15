@@ -58,7 +58,7 @@
 
 > ### 24/7 uptime so you will never miss out on your pampering
 
-> ### Soon to be 49 commands
+> ### 49 commands and counting!
 
 What are you waiting for? Add Senko to your server and start fluffing!
 </div>
