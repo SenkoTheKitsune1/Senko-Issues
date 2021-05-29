@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/Senko-The-Kitsune/Senko-Issues/issues/new?assignees=&labels=Feature+Request&template=feature_request.md&title=">
-    <img src="https://img.shields.io/badge/Request%20Feature-404040">
+    <img src="https://img.shields.io/badge/Request%20a%20Feature-404040">
 </a>
 
 <a href="https://github.com/SenkoTheKitsune1/Senko-Issues/issues/new?assignees=&labels=Question">
