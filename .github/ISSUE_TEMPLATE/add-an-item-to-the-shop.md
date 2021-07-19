@@ -13,10 +13,10 @@ A clear description of what you want added. And why.
 
 **Fill this in**
 ```json
-{
-    "Item_Name": "Little Yoko Doll",
-    "Amount_Per_Bought_Item": 1,
-    "Item_Description": "A little Yoko doll of Nakano.",
-    "Price_In_yen": 750
+"ItemName": {
+    "name": "Main Name",
+    "amount": 1,
+    "description": "Description",
+    "price": 10000
 }
 ```
