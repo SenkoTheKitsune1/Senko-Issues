@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Senko, the Discord bot</h1>
-    ## For your pampering. Forever.
+# Senko, the Discord bot
+## For your pampering. Forever.
 
 ---
 
