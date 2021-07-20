@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>Senko, the Discord bot</h1>
+    ## For your pampering. Forever.
 
 ---
 
@@ -47,8 +48,6 @@
 <div align="left">
 
 # Senko, built for your pampering needs
-
-## For your pampering. Forever.
 
 ### Some features that are included are
 
